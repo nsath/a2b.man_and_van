@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>Man And Van - London | For All Your Moving Needs From a2b</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<meta name="description" content="Expert man and van removals offering seamless, hassle-free transportation, logistics, and rubbish clearance. Choose us & Call Today On !" />
+<meta name="keywords" content="removal companies near me, residential and commercial removals in london, Delivery/Transport, Essex, junk removal near me, scrap metal removal, waste removal" />
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="HandheldFriendly" content="True">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="format-detection" content="telephone=yes">
+
+<meta name="language" content="English">
+
+<meta name="robots" content="index, follow">
+<meta name="robots" content="max-snippet:0">
+
+<meta property="og:title" content="Man And Van - London | For All Your Moving Needs From a2b" />
+<meta property="og:description" content="Expert man and van removals offering seamless, hassle-free transportation, logistics, and rubbish clearance. Choose us & Call Today On !" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://buildtestplatfor.byethost4.com/index.html?i=1" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:title" content="Man And Van - London | For All Your Moving Needs From a2b" />
+<meta property="twitter:description" content="Expert man and van removals offering seamless, hassle-free transportation, logistics, and rubbish clearance. Choose us & Call Today On !" />
+<!-- <meta name="twitter:image" content=""> -->
+
+<link rel="shortcut icon" type="x-icon" href=".png">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link href='https://fonts.googleapis.com/css?family=Lexend' rel='stylesheet'>
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
+<link rel="stylesheet" href="asset/css/reset.css">
+<link rel="stylesheet" href="asset/css/style.css">
+<link rel="stylesheet" href="asset/css/responsive.css">
+
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">  </script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">  </script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.19/jquery.touchSwipe.min.js">  </script>
+
+<script type="text/javascript" src="asset/js/js/script.js">
+<script type="text/javascript" src="asset/js/src/reviewsCarousel.js">
+
+<!--[if IE]>
+
+ <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+
+<![endif]-->
+
+<!--[if lt IE 9]>
+
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/flexibility/2.0.1/flexibility.js"></script>
+
+<![endif]-->
+
+</head>
+<body>
+
+ <div class="index_banner">
+
+  <div class="banner_image_container">
+
+   <a href="">
+
+    <img class="ab_logo_responsive" src="" alt="">
+
+   </a>
+   <!-- //  (a) -->
+
+    <h1 class="name_ab">
+
+     Man &amp; Van
+
+    </h1>
+    <!-- // name_ab (h1) -->
+
+
+    <p class="slogan_ab">
+
+     Load, Drive, Deliver: We Handle It All From a 2 b
+
+    </p>
+    <!-- // slogan_ab (p) -->
+
+  </div>
+  <!-- // banner_image_container -->
+
+ </div>
+ <!-- // index_banner -->
+
+
+ <main>
+
+  <div class="intro_to_ab">
+
+   <div class="custom_container intro">
+
+    <div class="col-12">
+
+     
+
+    </div>
+    <!-- // col-12 -->
+
+   </div>
+   <!-- // custom_container intro -->
+
+  </div>
+  <!-- // intro_to_ab -->
+
+
+  <div class="service_provided_for" id="services">
+
+   <div class="custom_container">
+
+    <div class="business_service service_commercial-residential-office-removal" id="commercial-residential-office-removals">
+
+     <div class="row">
+
+      <div class="column_service-offered column-service_img-left">
+
+       <img class="service_image_responsive" src="" alt="">
+
+      </div>
+      <!-- // column_service-offered column-service_img-left -->
+
+      <div class="column_service-offered column-service_right">
+
+       <h3>
+
+        Removals Service - Commercial, Residential &amp; Student
+
+       </h3>
+       <!-- // (h3) -->
+
+        <p>
+
+         Make a2b Man &amp; Van your go-to professional removals company, dedicated to providing an affordable, flexible, and highly-rated moving services throughout London and surrounding areas.
+
+        </p>
+        <!-- // (p) -->
+
+        <p>
+
+         Whether you're relocating to a new house or apartment, managing a small office move, or a student transitioning belongings between home and college/university, we've got you covered
+
+        </p>
+        <!-- // (p) -->
+
+        <p>
+
+         When you request a quote from us, you'll receive a detailed breakdown of moving costs, the schedule for resources, and the anticipated timeline.
+
+        </p>
+        <!-- // (p) -->
+
+        <p>
+
+         Our service hours are designed to accommodate your needs, operating during regular office hours, as well as early mornings, evenings, nights, weekends, and even bank holidays.
+
+        </p>
+        <!-- // (p) -->
+
+        <p>
+
+         We proudly offer free quotes with zero obligation. If you're ready to book our services right away or prefer to take some time to explore your options, feel free to reach out to our team of experienced movers today!
+
+        </p>
+        <!-- // (p) -->
+
+        <p>
+
+         <b> <a href="tel:"> Call us </a> </b> today to get a quote
+
+        </p>
+        <!-- // (p) -->
+
+      </div>
+      <!-- // column_service-offered column-service_right -->
+
+     </div>
+     <!-- // row -->
+
+    </div>
+    <!-- // business_service service_commercial-residential-office-removal # = commercial-residential-office-removals -->
+
+
+    <div class="vert_spacer_divide">
+
+    </div>
+    <!-- // vert_spacer_divide -->
+
+
+    <div class="business_service service_collection-delivery_shop-click-and-collect" id="service_collection-delivery_shop-click-and-collect">
+
+     <div class="row">
+
+      <div class="column_service-offered column-service_img-left">
+
+       <img class="service_image_responsive" src="" alt="">
+
+      </div>
+      <!-- // column_service-offered column-service_img-left -->
+
+      <div class="column_service-offered column-service_right">
+
+       <h3>
+
+        Bulk Buys, DIY Materials, Market runs for your business, Click &amp; Collects &amp; More
+
+       </h3>
+       <!-- // (h3) -->
+
+        
+
+      </div>
+      <!-- // column_service-offered column-service_right -->
+
+     </div>
+     <!-- // row -->
+
+    </div>
+    <!-- // business_service service_collection-delivery_shop-click-and-collect # = service_collection-delivery_shop-click-and-collect -->
+
+
+    <div class="vert_spacer_divide">
+
+    </div>
+    <!-- // vert_spacer_divide -->
+
+
+    <div class="business_service service_scrap-metal-clearance_removal" id="scrap-metal-collection">
+
+     <div class="row">
+
+      <div class="column_service-offered column-service_img-left">
+
+       <img class="service_image_responsive" src="" alt="">
+
+      </div>
+      <!-- // column_service-offered column-service_img-left -->
+
+      <div class="column_service-offered column-service_right">
+
+       <h3>
+
+        FREE Scrap Metal Collection
+
+       </h3>
+       <!-- // (h3) -->
+
+        <p>
+
+         Our dedicated team is ready to visit your home or business to collect any scrap metal you wish to get rid off completely <b> FREE </b> of charge!
+
+        </p>
+        <!-- // (p) -->
+
+        <p>
+
+         We gladly accept a wide range of scrap metals, including copper, aluminum, brass, steel, lead, stainless steel, cables and wiring, as well as other commercial scrap. Whether it's ferrous or non-ferrous metals, we're here to take it all.
+
+        </p>
+        <!-- // (p) -->
+
+         <p>
+
+         No matter if you have one item, pipes, sheets, fittings, or several pieces of scrap, our collection service is designed to make your life easier.
+
+        </p>
+        <!-- // (p) -->
+
+        <p>
+
+         For those requiring quick service, a2b Man &amp; Van offers a convenient same-day and out-of-hours collections tailored to fit your schedule across the city.
+
+        </p>
+        <!-- // (p) -->
+
+        <p>
+
+         <b> <a href="tel:"> Call us </a> </b> today to schedule your collection!
+
+        </p>
+        <!-- // (p) -->
+
+      </div>
+      <!-- // column_service-offered column-service_right -->
+
+     </div>
+     <!-- // row -->
+
+    </div>
+    <!-- // business_service service_scrap-metal-clearance_removal # = scrap-metal-collection -->
+
+
+    <div class="vert_spacer_divide">
+
+    </div>
+    <!-- // vert_spacer_divide -->
+
+
+    <div class="business_service service_rubbish-clearance_waste-management" id="waste-rubbish-clearance">
+
+     <div class="row">
+
+      <div class="column_service-offered column-service_img-left">
+
+       <img class="service_image_responsive" src="" alt="">
+
+      </div>
+      <!-- // column_service-offered column-service_img-left -->
+
+      <div class="column_service-offered column-service_right">
+
+       <h3>
+
+        Rubbish Clearance
+
+       </h3>
+       <!-- // (h3) -->
+
+        <p>
+
+         Seeking a cost-effective and efficient rubbish clearance solution? At a2b Man &amp; Van, we provide a professional, stress-free service for all your rubbish and waste removal needs.
+
+        </p>
+        <!-- // (p) -->
+
+        <p>
+
+         Whether it's from your home, office, garden, or a construction site, our skilled and experienced team will take care of all the loading and unloading, ensuring minimal disruption and an eco-friendly approach.
+
+        </p>
+        <!-- // (p) -->
+
+        <p>
+
+         Our services are not only budget-friendly and time-saving, but they also offer a more efficient alternative to traditional skip hire.
+
+        </p>
+        <!-- // (p) -->
+
+        <p>
+
+         We provide same-day clearance options tailored to your specific requirements
+
+        </p>
+        <!-- // (p) -->
+
+        <p>
+
+         <b> <a href="tel:"> Contact us </a> </b> today to find out how we can help!
+
+        </p>
+        <!-- // (p) -->
+
+      </div>
+      <!-- // column_service-offered column-service_right -->
+
+     </div>
+     <!-- // row -->
+
+    </div>
+    <!-- // business_service service_rubbish-clearance_waste-management # = waste-rubbish-clearance -->
+
+   </div>
+   <!-- // custom_container -->
+
+  </div>
+  <!-- // service_provided_for # = services -->
+
+
+  <div class="ab_review_callback_request">
+
+   <div class="custom_container">
+
+    <div class="reviews_carousel_form_callback">
+
+     <div class="row">
+
+      <div class="column_review-carousel_callbackrq-form column-carousel_reviews-left">
+
+       <div class="reviews-mix_carousel" id="reviews">
+
+        <div class="carousel">
+
+         <div class="carousel_review_view">
+
+          <div class="review_slide_track">
+
+           <div class="slide_review review-trustpilot">
+
+            
+
+           </div>
+           <!-- // slide_review review-trustpilot -->
+
+           <div class="slide_review review-google">
+
+            
+
+           </div>
+           <!-- // slide_review review-google -->
+
+           <div class="slide_review review-yell">
+
+            
+
+           </div>
+           <!-- // slide_review review-yell -->
+
+           <div class="slide_review review-checkatrade">
+
+            
+
+           </div>
+           <!-- // slide_review review-checkatrade -->
+
+          </div>
+          <!-- // review_slide_track -->
+
+         </div>
+         <!-- // carousel_review_view -->
+
+
+         <a class="carousel_control left_control">
+
+          <div class="left-control control_previous">
+
+           &lt;
+
+          </div>
+          <!-- // left-control control_previous -->
+
+         </a>
+         <!-- // carousel_control left_control (a) -->
+
+
+         <a class="carousel_control right_control">
+
+          <div class="right-control control_next">
+
+           &gt;
+
+          </div>
+          <!-- // right-control control_next -->
+
+         </a>
+         <!-- // carousel_control right_control (a) -->
+
+        </div>
+        <!-- // carousel -->
+
+       </div>
+       <!-- // reviews-mix_carousel # = reviews -->
+
+      </div>
+      <!-- // column_review-carousel_callbackrq-form column-carousel_reviews-left -->
+
+
+      <div class="column_review-carousel_callbackrq-form column-form_call-me-back-form-right">
+
+       <div>
+
+        <h2 class="form_call-me-back_form_header">
+
+         Request a Callback
+
+        </h2>
+        <!-- // form_call-me-back_form_header (h2) -->
+
+         <p>
+
+          Fill out the form below, and we'll get back to you shortly.
+
+         </p>
+         <!-- // (p) -->
+
+          <form class="requires-a-callback_form-for validate-form_callmeback" id="call-me-back_form" action="mailer.php" method="post" enctype="text/plain" autocomplete="off" onsubmit="return false">
+
+           <div>
+
+            <label class="input-field-label" id="label-name" for="name_user-input">
+
+             Name *
+
+            </label>
+            <!-- // input-field-label #= label-name (label) -->
+
+           </div>
+
+
+           <div class="user-input_fieldfield-name">
+
+            <div>
+
+             <div class="form-field validate_this-input" data-validate = "Name is required">
+
+              <input class="field_input-text_entry field-entry_required" id="name_user-input" type="text" name="contact-name-whom-to-call" placeholder="Enter your name" autocomplete="off">
+
+               <span class="focus_this-input">
+       
+               </span>
+               <!-- // focus_this-input -->
+
+             </div>
+             <!-- // form-field validate_this-input -->
+
+            </div>
+
+           </div>
+           <!-- // user-input_field field-name -->
+
+
+           <div>
+
+            <label class="input-field-label" id="label-contact-telephone" for="contact-number_user-input">
+
+             Contact Number *
+
+            </label>
+            <!-- // input-field-label #= label-contact-telephone (label) -->
+
+           </div>
+
+
+           <div class="user-input_field field-contact">
+
+            <div>
+
+             <div class="form-field validate_this-input" data-validate = "Contact Number is required">
+
+              <input class="field_input-contactnumber_entry field-entry_required" id="contact-number_user-input" type="tel" name="contact-number-to-call" placeholder="Enter your contact number">
+
+               <span class="focus_this-input">
+       
+               </span>
+               <!-- // focus_this-input -->
+
+             </div>
+             <!-- // form-field validate_this-input -->
+
+            </div>
+
+           </div>
+           <!-- // user-input_field field-contact -->
+
+
+           <div class="btn_submitform_callback_container">
+
+            <button class="requestcallback-btn_submit btnsubmitrequest" type="submit">
+
+             Submit Request
+
+            </button>
+            <!-- // contactform-submit-btn submitmsgbtn -->
+
+           </div>
+           <!-- // btn_submitform_callback_container -->
+
+          </form>
+          <!-- // requires-a-callback_form-for validate-form_callmeback #= call-me-back_form (form) -->
+
+
+         <script type="text/javascript" src="asset/js/src/validate_form.js">
+
+         <script type="text/javascript" src="asset/js/src/fn_prepareCallbackFormFilledFieldEntriesForSubmission.js">
+
+
+       </div>
+
+      </div>
+      <!-- // column_review-carousel_callbackrq-form column-form_call-me-back-form-right -->
+
+     </div>
+     <!-- // row -->
+
+    </div>
+    <!-- // reviews_carousel_form_callback -->
+
+   </div>
+   <!-- // custom_container -->
+
+  </div>
+  <!-- // ab_review_callback_request -->
+
+ </main>
+ <!-- // (main) -->
+
+
+ <div class="index_footer_main">
+
+  <div class="footer_main_container_custom">
+
+   <div class="footer_row_main">
+
+    <div class="col-4">
+
+     <div class="find-us_websites-socials">
+
+      
+
+     </div>
+     <!-- // find-us_websites-socials -->
+
+    </div>
+    <!-- // col-4 -->
+
+    <div class="col-4">
+
+     <div class="quick-link_footer-navigation">
+
+      <h3 class="title_quick-links_h3">
+
+       
+
+      </h3>
+      <!-- // title_quick-links_h3 (h3) -->
+
+       <ul>
+
+  	<li>
+
+         <a href="#commercial-residential-office-removals">
+
+          Removals & Moving - Commercial, Residential &amp; Student
+
+         </a>
+
+        </li>
+
+  	<li>
+
+         <a href="#">
+
+          Bulk Buys, DIY Materials, Market runs for your business, Click &amp; Collects &amp; More
+
+         </a>
+
+        </li>
+
+  	<li>
+
+         <a href="#scrap-metal-collection">
+
+          FREE Scrap Metal Collection
+
+         </a>
+
+        </li>
+
+  	<li>
+
+         <a href="#waste-rubbish-clearance">
+
+          Rubbish Clearance
+
+         </a>
+
+        </li>
+
+       </ul>
+
+     </div>
+     <!-- // quick-link_footer-navigation -->
+
+    </div>
+    <!-- // col-4 -->
+
+    <div class="col-4">
+
+     <div class="contact_find-us">
+
+      
+
+     </div>
+     <!-- // contact_find-us -->
+
+    </div>
+    <!-- // col-4 -->
+
+    <div class="clear-custom">
+
+    </div>
+    <!-- // clear-custom -->
+
+   </div>
+   <!-- // footer_row_main -->
+
+  </div>
+  <!-- // footer_main_container_custom -->
+
+ </div>
+ <!-- // index_footer_main -->
+
+
+ <footer>
+
+  <div class="content-container_within">
+
+   <div class="footer-bt_left">
+
+     <p>
+
+     &copy; 2026 a2b Man &amp; Van
+
+    </p>
+    <!-- // p -->
+
+    </div>
+    <!-- // footer-bt_left -->
+
+
+    <div class="footer-bt_right">
+
+     <p>
+
+     Web Design &amp; Development by:
+
+      <a target="_blank" href="" title="Niroshan Sathasivam"> Niroshan Sathasivam </a>
+
+    </p>
+    <!-- // p -->
+
+    </div>
+    <!-- // footer-bt_right -->
+
+
+    <div class="clearfix">
+
+    </div>
+    <!-- // clearfix -->
+
+  </div>
+  <!-- // content-container_within -->
+
+ </footer>
+ <!-- // (footer) -->
+
+</body>
+</html>
